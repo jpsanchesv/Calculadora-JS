@@ -54,7 +54,7 @@ Este projeto foi desenvolvido para reforçar conceitos iniciais como:
 ## 🙋‍♂️ Autor
 
 Desenvolvido por **João Pedro**  
-📚 Estudante de desenvolvimento web
+📚 Estudante de Análise e Desenvolvimento de Sistemas pelo IFTO - Araguaína
 
 ---
 
