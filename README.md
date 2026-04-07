@@ -34,7 +34,7 @@ Este projeto foi desenvolvido para reforçar conceitos iniciais como:
 ---
 
 ## 📂 Estrutura do projeto
-/calculadora
+/calculadora JS
 │
 ├── index.html
 ├── style.css
